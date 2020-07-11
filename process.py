@@ -97,7 +97,7 @@ def do_image_png(input_str, switcher='economy'):
 
     sources = {'economy': 'source_economy.png',
                'minitrip': "source_minitrip.png",
-               'hlwn': 'source_minitrip.png'}
+               'hlwn': 'source_hlwnr.png'}
 
     strings = {'economy': ((70, 845), (70, 915), (70, 870)),
                 'minitrip': ((70, 855), (70, 925), (70, 880)),
