@@ -3,7 +3,7 @@ import process
 import os
 from PIL import Image
 
-token = '1263539510:AAGuCrDHx4C1DY_kVg7aFDRhFT1uZHHbCN0'
+token = ''
 bot = telebot.TeleBot(token)
 
 
