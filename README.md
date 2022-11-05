@@ -6,6 +6,7 @@
 ## Usage:
 1. run **cmd**
 1. change working directory to repository directory (`cd` command)
+
 **Pro-tip: To change drive in Windows use (D: - change drive to drive D | C: - change drive to drive C)**
 1. run `python -m venv env` with **cmd** in repository directory
 1. run virtual environment "env" (`.\env\Scripts\activate` for Windows)
